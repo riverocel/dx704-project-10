@@ -1,0 +1,1 @@
+I have used json and sklearn for the hashing process. I utilized chagpt for the code to make sure i am understanding the question correctly and accurately following the code required.
